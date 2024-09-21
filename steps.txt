@@ -1,0 +1,9 @@
+1979: C with Classes; class, public, private, friend, inline, default arguments, constructor and destructor, overloading (=)
+1985: C++; virtual, const, new, delete, reference (&), operator overloading, string, complex, C++ comments (//)
+1989: C++; protected, abstract class, static, overloading (->)
+1990: C++; namespace, exception handling, template, typename
+1998: C++98; Boost initiated; mutable, bool, explicit, dynamic_cast, typeid, export (partial support)
+2011: C++11; auto, decltype, nullptr, range-based for loop (for), constexpr, lambda expressions, using, static_assert, override, final, long long, enum class, noexcept, rvalue references (&&)
+2014: C++14; binary literals (0b), generic lambdas (no new keywords introduced)
+2017: C++17; if constexpr, inline variables, hexadecimal floating-point literals (0x), structured bindings, fold expressions
+2020: C++20; concepts, requires, co_await, co_yield, co_return, spaceship operator (<=>), modules, import, ranges, coroutines
